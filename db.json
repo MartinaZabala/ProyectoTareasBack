@@ -1,0 +1,148 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Desarrollo de la funcionalidad de autenticación",
+      "descripcion": "Implementar la funcionalidad de autenticación utilizando tecnologías modernas de seguridad",
+      "tiempo": 8,
+      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "responsable": "Romina Ascurra",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 2,
+      "titulo": "Optimización de la base de datos",
+      "descripcion": "Realizar una optimización exhaustiva de la base de datos para mejorar el rendimiento del sistema",
+      "tiempo": 15,
+      "imagen": "https://1.bp.blogspot.com/-kbjC0M6JXbw/YVYPdNB0cDI/AAAAAAAAAKM/7SwZW8ISnSA6Dxm_jFJWe6wiVnIHpMPnACLcBGAsYHQ/s960/base-de-datos.jpg",
+      "responsable": "Flor Gubbioti",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 3,
+      "titulo": "Implementación de la API de pago",
+      "descripcion": "Integrar una API de pago para permitir transacciones seguras y rápidas",
+      "tiempo": 10,
+      "imagen": "https://static.vecteezy.com/system/resources/previews/002/204/865/large_2x/api-line-icon-for-web-vector.jpg",
+      "responsable": "Constanza Uño",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 4,
+      "titulo": "Diseño y desarrollo del front-end del panel de administración",
+      "descripcion": "Crear un diseño atractivo y funcional para el panel de administración del sistema",
+      "tiempo": 10,
+      "imagen": "https://www.ankayd.com/wp-content/uploads/2019/11/img_post02_blog.jpg",
+      "responsable": "Martina Zabala",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 5,
+      "titulo": "Desarrollo de la página de inicio del sitio web",
+      "descripcion": "Diseñar y desarrollar la página de inicio del sitio web utilizando las últimas tecnologías de front-end",
+      "tiempo": 5,
+      "imagen": "https://dlegaonline.es/wp-content/uploads/optimizar-pagina-de-inicio-de-tu-web-800x450-1-768x432.jpg",
+      "responsable": "Martina Zabala",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 6,
+      "titulo": "Implementación de la funcionalidad de búsqueda avanzada",
+      "descripcion": "Crear una búsqueda avanzada que permita a los usuarios encontrar información específica de manera rápida y eficiente",
+      "tiempo": 10,
+      "imagen": "https://image.freepik.com/vector-gratis/lupa-buscador-estilo-plano_23-2147783208.jpg",
+      "responsable": "Romina Ascurra",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 7,
+      "titulo": "Desarrollo del sistema de notificaciones",
+      "descripcion": "Implementar un sistema de notificaciones en tiempo real para informar a los usuarios sobre eventos importantes",
+      "tiempo": 10,
+      "imagen": "https://thumbs.dreamstime.com/z/notification-alert-digital-icon-internet-network-concept-74534659.jpg",
+      "responsable": "Flor Gubbioti",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 8,
+      "titulo": "Creación de la interfaz de usuario de la aplicación móvil",
+      "descripcion": "Diseñar una interfaz de usuario intuitiva y atractiva para la aplicación móvil de la empresa",
+      "tiempo": 7,
+      "imagen": "https://www.crhoy.com/wp-content/uploads/2017/01/celular3.jpg",
+      "responsable": "Martina Zabala",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 9,
+      "titulo": "Pruebas de rendimiento y estabilidad del sistema",
+      "descripcion": "Realizar pruebas exhaustivas para garantizar el rendimiento y la estabilidad del sistema en diversas situaciones",
+      "tiempo": 11,
+      "imagen": "https://1.bp.blogspot.com/-bnOfsANsw1U/XpIOU697yII/AAAAAAABm0c/5CEn8mbToo4pFPe7J1cW9kd_qYJ-LPhdQCLcBGAsYHQ/s1600/stesting.jpg",
+      "responsable": "Constanza Uño",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 10,
+      "titulo": "Evaluación de la usabilidad de la interfaz de usuario",
+      "descripcion": "Realizar estudios de usabilidad para evaluar la facilidad de uso y la experiencia del usuario en la interfaz de usuario",
+      "tiempo": 11,
+      "imagen": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/2022-05/usabilidad%20web.jpg",
+      "responsable": "Flor Gubbioti",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 12,
+      "titulo": "Optimización de la velocidad de carga del sitio web",
+      "descripcion": "Mejorar la velocidad de carga del sitio web mediante la optimización de recursos y la implementación de prácticas recomendadas",
+      "tiempo": 11,
+      "imagen": "https://www.astridseoweb.com/wp-content/uploads/2021/06/Velocidad-de-carga_Mesa-de-trabajo-1.jpg",
+      "responsable": "Constanza Uño",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "id": 13,
+      "titulo": "Implementación de la funcionalidad de chat en vivo",
+      "descripcion": "Integrar un sistema de chat en vivo para permitir a los usuarios comunicarse directamente con el soporte técnico",
+      "tiempo": 11,
+      "imagen": "https://securitec.pe/blog/wp-content/uploads/2020/12/chat-en-vivo.jpg",
+      "responsable": "Martina Zabala",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 14,
+      "titulo": "Implementación de la funcionalidad de comentarios",
+      "descripcion": "Desarrollar un sistema de comentarios para permitir a los usuarios expresar sus opiniones y comentarios sobre el contenido",
+      "tiempo": 11,
+      "imagen": "https://img.interempresas.net/fotos/3045311.jpeg",
+      "responsable": "Flor Gubbioti",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 15,
+      "titulo": "Implementación de la función de copia de seguridad automática",
+      "descripcion": "Desarrollar un sistema de copia de seguridad automática para proteger los datos del usuario y prevenir la pérdida de información",
+      "tiempo": 11,
+      "imagen": "https://www.mibaul.es/wp-content/uploads/2021/08/copia-seguridad-2-768x630.jpg",
+      "responsable": "Romina Ascurra",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 16,
+      "titulo": "Desarrollo de la funcionalidad de recomendaciones personalizadas",
+      "descripcion": "Crear un sistema de recomendaciones personalizadas basado en el comportamiento del usuario y sus preferencias",
+      "tiempo": 11,
+      "imagen": "https://www.lifeder.com/wp-content/uploads/2017/12/ilustraci%C3%B3n-escribir-ensayo-lifeder.jpg",
+      "responsable": "Flor Gubbioti",
+      "estado": "COMPLETADA"
+    },
+    {
+      "titulo": "Encuestas",
+      "descripcion": "Encuestas para satisfacer las necesidades del usuario",
+      "tiempo": 5,
+      "imagen": "https://www.humansocialtic.com/wp-content/uploads/2020/07/encuestas-on-line.png",
+      "responsable": "Martina Zabala",
+      "estado": "COMPLETADA",
+      "id": 17
+    }
+  ]
+}
